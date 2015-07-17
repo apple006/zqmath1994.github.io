@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site/*
 _theme_packages/*
 
@@ -8,3 +9,33 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 39f3c7872ae47b7954e235bb1458a5e8686796d0
